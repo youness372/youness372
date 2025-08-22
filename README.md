@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 
+<img width="1280" height="850" alt="profile-night-green" src="https://github.com/user-attachments/assets/ccca6719-9829-44f5-a239-76b69ca6f645" />
 
-![None](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img width="1280" height="850" alt="profile-night-green" src="https://github.com/user-attachments/assets/ac73837e-1a49-49b7-b392-e7a00ab8df36" />
