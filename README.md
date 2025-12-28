@@ -77,15 +77,6 @@ class YounessAgrine:
 
 ***"Every expert was once a beginner. Every problem was once a mystery. The journey of a thousand algorithms begins with a single line of code."***
 
-## *📊 Weekly Development Breakdown* 
-
-| Language     | Time Spent       | Progress |
-|-------------|----------------|----------|
-| Python      | 8 hrs 45 mins  | ████████████████░░░░░ 65.2% |
-| Java        | 4 hrs 30 mins  | ████░░░░░░░░░░░░░░░░ 18.6% |
-| C++         | 3 hr 20 mins   | ██░░░░░░░░░░░░░░░░░░ 10.0% |
-| JavaScript  | 45 mins        | █░░░░░░░░░░░░░░░░░░░░ 5.6% |
-| Other       | 10 mins        | ░░░░░░░░░░░░░░░░░░░░░ 0.6% |
 
 
 ### *💭 "Code is poetry written in logic"*   
