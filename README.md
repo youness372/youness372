@@ -45,6 +45,7 @@ class YounessAgrine:
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/youness-444?ext=heatmap&theme=dark&font=Baloo%202)](https://leetcode.com/u/youness-444/) 
 
+<img src="https://github.com/user-attachments/assets/757cfb1d-3b02-485d-b88e-b7027f23f0f9" width="200" alt="LeetCode 200 Days Badge"/>
 <img src="https://github.com/user-attachments/assets/5f1f05e3-4701-4859-8072-53ae00a56fdf" width="200"/>
 <img src="https://github.com/user-attachments/assets/e1cfeccd-2c02-446b-bae5-dbb9321d2dea" width="200"/>  
 <img src="https://github.com/user-attachments/assets/0cf6920a-5351-4cb0-81f6-b0546774e345" width="200"/>
