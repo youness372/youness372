@@ -3,7 +3,7 @@
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3275a8&center=true&vCenter=true&width=600&lines=Software+Engineering+%26+Networking+Student;Algorithm+Problem+Solver;5+Months+of+Coding+Journey;Always+Learning+Something+New!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3275a8&center=true&vCenter=true&width=600&lines=Software+Engineering+%26+Networking+Student;Algorithm+Problem+Solver;8+Months+of+Coding+Journey;Always+Learning+Something+New!)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,7 @@ class YounessAgrine:
        self.role = "Software Engineering & Networking Student"
        self.school = "Higher School of Technology"
        self.year = "2nd Year"
-       self.coding_journey = "5 months"
+       self.coding_journey = "8 months"
        self.location = "Morocco 🇲🇦"
        
    def current_focus(self):
@@ -29,10 +29,10 @@ class YounessAgrine:
            "Network Programming"
        ]
        
-   def goals_2025(self):
+   def goals_2026(self):
        return [
            "Master DSA concepts",
-           "Solve 300+ LeetCode problems",
+           "Solve 900+ LeetCode problems",
            "Build impactful projects",
            "Contribute to open source"
        ]
